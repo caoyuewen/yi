@@ -1,0 +1,386 @@
+[
+  {
+    "index": 1,
+    "name": "乾",
+    "group": "乾",
+    "symbols": "䷀"
+  },
+  {
+    "index": 2,
+    "name": "坤",
+    "group": "坤",
+    "symbols": "䷁"
+  },
+  {
+    "index": 3,
+    "name": "屯",
+    "group": "水雷屯",
+    "symbols": "䷂"
+  },
+  {
+    "index": 4,
+    "name": "蒙",
+    "group": "山水蒙",
+    "symbols": "䷃"
+  },
+  {
+    "index": 5,
+    "name": "需",
+    "group": "水天需",
+    "symbols": "䷄"
+  },
+  {
+    "index": 6,
+    "name": "讼",
+    "group": "天水讼",
+    "symbols": "䷅"
+  },
+  {
+    "index": 7,
+    "name": "师",
+    "group": "地水师",
+    "symbols": "䷆"
+  },
+  {
+    "index": 8,
+    "name": "比",
+    "group": "水地比",
+    "symbols": "䷇"
+  },
+  {
+    "index": 9,
+    "name": "小畜",
+    "group": "风天小畜",
+    "symbols": "䷈"
+  },
+  {
+    "index": 10,
+    "name": "履",
+    "group": "天泽履",
+    "symbols": "䷉"
+  },
+  {
+    "index": 11,
+    "name": "泰",
+    "group": "地天泰",
+    "symbols": "䷊"
+  },
+  {
+    "index": 12,
+    "name": "否",
+    "group": "天地否",
+    "symbols": "䷋"
+  },
+  {
+    "index": 13,
+    "name": "同人",
+    "group": "天火同人",
+    "symbols": "䷌"
+  },
+  {
+    "index": 14,
+    "name": "大有",
+    "group": "火天大有",
+    "symbols": "䷍"
+  },
+  {
+    "index": 15,
+    "name": "谦",
+    "group": "地山谦",
+    "symbols": "䷎"
+  },
+  {
+    "index": 16,
+    "name": "豫",
+    "group": "雷地豫",
+    "symbols": "䷏"
+  },
+  {
+    "index": 17,
+    "name": "随",
+    "group": "泽雷随",
+    "symbols": "䷐"
+  },
+  {
+    "index": 18,
+    "name": "蛊",
+    "group": "山风蛊",
+    "symbols": "䷑"
+  },
+  {
+    "index": 19,
+    "name": "临",
+    "group": "地泽临",
+    "symbols": "䷒"
+  },
+  {
+    "index": 20,
+    "name": "观",
+    "group": "风地观",
+    "symbols": "䷓"
+  },
+  {
+    "index": 21,
+    "name": "噬嗑",
+    "group": "火雷噬嗑",
+    "symbols": "䷔"
+  },
+  {
+    "index": 22,
+    "name": "贲",
+    "group": "山火贲",
+    "symbols": "䷕"
+  },
+  {
+    "index": 23,
+    "name": "剥",
+    "group": "山地剥",
+    "symbols": "䷖"
+  },
+  {
+    "index": 24,
+    "name": "复",
+    "group": "地雷复",
+    "symbols": "䷗"
+  },
+  {
+    "index": 25,
+    "name": "无妄",
+    "group": "天雷无妄",
+    "symbols": "䷘"
+  },
+  {
+    "index": 26,
+    "name": "大畜",
+    "group": "山天大畜",
+    "symbols": "䷙"
+  },
+  {
+    "index": 27,
+    "name": "颐",
+    "group": "山雷颐",
+    "symbols": "䷚"
+  },
+  {
+    "index": 28,
+    "name": "大过",
+    "group": "泽风大过",
+    "symbols": "䷛"
+  },
+  {
+    "index": 29,
+    "name": "坎",
+    "group": "坎",
+    "symbols": "䷜"
+  },
+  {
+    "index": 30,
+    "name": "离",
+    "group": "离",
+    "symbols": "䷝"
+  },
+  {
+    "index": 31,
+    "name": "咸",
+    "group": "泽山咸",
+    "symbols": "䷞"
+  },
+  {
+    "index": 32,
+    "name": "恒",
+    "group": "雷风恒",
+    "symbols": "䷟"
+  },
+  {
+    "index": 33,
+    "name": "遁",
+    "group": "天山遁",
+    "symbols": "䷠"
+  },
+  {
+    "index": 34,
+    "name": "大壮",
+    "group": "雷天大壮",
+    "symbols": "䷡"
+  },
+  {
+    "index": 35,
+    "name": "晋",
+    "group": "火地晋",
+    "symbols": "䷢"
+  },
+  {
+    "index": 36,
+    "name": "明夷",
+    "group": "地火明夷",
+    "symbols": "䷣"
+  },
+  {
+    "index": 37,
+    "name": "家人",
+    "group": "风火家人",
+    "symbols": "䷤"
+  },
+  {
+    "index": 38,
+    "name": "睽",
+    "group": "火泽睽",
+    "symbols": "䷥"
+  },
+  {
+    "index": 39,
+    "name": "蹇",
+    "group": "水山蹇",
+    "symbols": "䷦"
+  },
+  {
+    "index": 40,
+    "name": "解",
+    "group": "雷水解",
+    "symbols": "䷧"
+  },
+  {
+    "index": 41,
+    "name": "损",
+    "group": "山泽损",
+    "symbols": "䷨"
+  },
+  {
+    "index": 42,
+    "name": "益",
+    "group": "风雷益",
+    "symbols": "䷩"
+  },
+  {
+    "index": 43,
+    "name": "夬",
+    "group": "泽天夬",
+    "symbols": "䷪"
+  },
+  {
+    "index": 44,
+    "name": "姤",
+    "group": "天风姤",
+    "symbols": "䷫"
+  },
+  {
+    "index": 45,
+    "name": "萃",
+    "group": "泽地萃",
+    "symbols": "䷬"
+  },
+  {
+    "index": 46,
+    "name": "升",
+    "group": "地风升",
+    "symbols": "䷭"
+  },
+  {
+    "index": 47,
+    "name": "困",
+    "group": "泽水困",
+    "symbols": "䷮"
+  },
+  {
+    "index": 48,
+    "name": "井",
+    "group": "水风井",
+    "symbols": "䷯"
+  },
+  {
+    "index": 49,
+    "name": "革",
+    "group": "泽火革",
+    "symbols": "䷰"
+  },
+  {
+    "index": 50,
+    "name": "鼎",
+    "group": "火风鼎",
+    "symbols": "䷱"
+  },
+  {
+    "index": 51,
+    "name": "震",
+    "group": "震",
+    "symbols": "䷲"
+  },
+  {
+    "index": 52,
+    "name": "艮",
+    "group": "艮",
+    "symbols": "䷳"
+  },
+  {
+    "index": 53,
+    "name": "渐",
+    "group": "风山渐",
+    "symbols": "䷴"
+  },
+  {
+    "index": 54,
+    "name": "归妹",
+    "group": "雷泽归妹",
+    "symbols": "䷵"
+  },
+  {
+    "index": 55,
+    "name": "丰",
+    "group": "雷火丰",
+    "symbols": "䷶"
+  },
+  {
+    "index": 56,
+    "name": "旅",
+    "group": "火山旅",
+    "symbols": "䷷"
+  },
+  {
+    "index": 57,
+    "name": "巽",
+    "group": "巽",
+    "symbols": "䷸"
+  },
+  {
+    "index": 58,
+    "name": "兑",
+    "group": "兑",
+    "symbols": "䷹"
+  },
+  {
+    "index": 59,
+    "name": "涣",
+    "group": "风水涣",
+    "symbols": "䷺"
+  },
+  {
+    "index": 60,
+    "name": "节",
+    "group": "水泽节",
+    "symbols": "䷻"
+  },
+  {
+    "index": 61,
+    "name": "中孚",
+    "group": "风泽中孚",
+    "symbols": "䷼"
+  },
+  {
+    "index": 62,
+    "name": "小过",
+    "group": "雷山小过",
+    "symbols": "䷽"
+  },
+  {
+    "index": 63,
+    "name": "既济",
+    "group": "水火既济",
+    "symbols": "䷾"
+  },
+  {
+    "index": 64,
+    "name": "未济",
+    "group": "火水未济",
+    "symbols": "䷿"
+  }
+]
